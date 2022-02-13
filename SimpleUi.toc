@@ -1,0 +1,7 @@
+## Interface: 90105
+## Version: 0.1.0
+## Title: Simple UI
+## Notes: My first addon
+## Author: The_Stimulus
+
+SimpleUi.lua
